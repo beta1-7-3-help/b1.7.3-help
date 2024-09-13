@@ -80,4 +80,4 @@ Bonus achievements: (must have 25+ points already to unlock)
 
 Dungeon Runner (never build a shelter that mobs cant get into) 15 points
 Don't Need No Stinking Armor! (never wear armor) 15 points
-Chuck Norris has nothing on me! (play on hard difficulty) +0.5x score bonus
+Chuck Norris has nothing on me! (play on hard difficulty) +1 (modified from original because 0x means less points).5x score bonus
